@@ -255,14 +255,14 @@ GitHub: [@mohammadbrd](https://github.com/mohammadbrd)
 
 ---
 
-## ⭐ Repository Description
-
-> MATLAB/Simulink project for trajectory tracking, state feedback control, integral control, and observer-based localization of a differential-drive mobile robot.
-
----
-
 <div align="center">
 
 ### 🤖 Designed for learning, simulating, and analyzing modern mobile robot control systems.
+
+</div>
+
+<div align="center">
+
+### ⭐ If you find this project useful, consider starring the repository.
 
 </div>
